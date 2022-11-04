@@ -7,10 +7,10 @@ Use your familiar programming language to answer the following questions, e.g. N
 Time allowed: 30 mins to 45 mins
 
 Allowed submission format: 
-GitHub link to your source codes
-Zipped file of your source code, sending to email dev@qdc-aipla.com
+1. GitHub link to your source codes
+2. Zipped file of your source code, sending to email dev@qdc-aipla.com
 
-Clean codes are highly appreciated. Suitable level of comments would help demonstrate your capability as a good developer.
+Clean codes would be highly appreciated. Suitable level of comments would help demonstrate your capability as a good developer.
 
 —
 ### Question
