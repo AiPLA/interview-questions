@@ -32,7 +32,7 @@ You are now given a few files of CSV with raw data containing the
   - `topicID`: the topic ID of the question
   - `correctAnswer`: the correct answer index of the multiple choice question
 
-CSV files: [data.zip](./data.zip)
+CSV files: [data.zip]("https://github.com/AiPLA/interview-questions/raw/main/data.zip")
 Please unzip the data.zip to get the 3 original data set.
 
 Do the following with the data
